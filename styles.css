@@ -115,6 +115,7 @@ h4 {
 
 .welcome-img {
   grid-column: 6/9;
+  background: red;
 }
 
 .welcome-img img {
